@@ -1,11 +1,11 @@
 let fields = [
-    "sircle",  // sircle
+    null,  
     null,
-    'cross',  // sircle
+    null,  
     null,
     null,
-    null,  // cross
-    null,  // cross
-    null,  // cross
+    null,  
+    null,  
+    null,  
     null
 ];

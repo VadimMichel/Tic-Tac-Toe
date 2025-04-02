@@ -33,6 +33,10 @@ td {
     cursor: pointer;
 }
 
+td:hover{
+    background-color: #404040;
+}
+
 /* Änderung um nur innere Trennlinien anzuzeigen */
 table {
     border-collapse: collapse;
