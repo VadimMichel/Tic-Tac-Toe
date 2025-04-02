@@ -4,6 +4,7 @@ body {
     font-family: 'Open Sans', sans-serif; 
     color: white; 
     margin: 0; 
+    
 }
 
 #content{
@@ -11,6 +12,7 @@ body {
     justify-content: center; 
     align-items: center; 
     height: calc(100vh - 200px);
+    position: relative;
 }
 
 h1{
@@ -56,3 +58,4 @@ table {
   table tr td:last-child {
     border-right: 0;
   }
+
